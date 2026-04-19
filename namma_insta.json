@@ -1,13 +1,42 @@
 {
-   "media":[
-       {
-         "type":"facebook",
-         "url":"https://www.facebook.com/reel/1557104388730890"
-      },
-           
+  "instagram": {
+    "ரீல்ஸ்": [
       {
-         "type":"youtube",
-         "Id":"R4P2UTgYebg"
-       }
-   ]
- }
+        "title": "நம்ம ஊரு ரீல்",
+        "url": "https://www.instagram.com/reel/YOUR_REEL_ID/",
+        "description": "சமீபத்திய ரீல்கள்",
+        "thumbnail": ""
+      },
+      {
+        "title": "மதுரை காட்சிகள்",
+        "url": "https://www.instagram.com/reel/YOUR_REEL_ID_2/",
+        "description": "மதுரை அழகான இடங்கள்",
+        "thumbnail": ""
+      }
+    ],
+    "புகைப்படங்கள்": [
+      {
+        "title": "நம்ம ஊரு புகைப்படங்கள்",
+        "url": "https://www.instagram.com/YourHandleHere/",
+        "description": "எங்கள் இன்ஸ்டாகிராம் பக்கம்",
+        "thumbnail": ""
+      }
+    ],
+    "இன்ஃப்ளுவென்சர்": [
+      {
+        "title": "தமிழ் இன்ஃப்ளுவென்சர்கள்",
+        "url": "https://www.instagram.com/explore/",
+        "description": "பிரபலமான கணக்குகள்",
+        "thumbnail": ""
+      }
+    ],
+    "கலாச்சாரம்": [
+      {
+        "title": "தமிழ் கலாச்சாரம்",
+        "url": "https://www.instagram.com/explore/tags/tamilculture/",
+        "description": "தமிழ் பாரம்பரியம்",
+        "thumbnail": ""
+      }
+    ]
+  }
+}
